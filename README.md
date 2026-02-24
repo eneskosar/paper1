@@ -1,5 +1,4 @@
 # An Empirical Study of Fine-Tuning Effectiveness Across Transformer Architectures for Logical Reasoning
-# Fine-Tuning Transformer Architectures for Logical Reasoning (FOLIO)
 
 This repository accompanies our short empirical study on supervised fine-tuning 
 for logical reasoning across different transformer architectures.
